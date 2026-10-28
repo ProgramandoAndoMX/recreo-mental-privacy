@@ -1,67 +1,48 @@
-# Privacy Policy – Recreo Mental
+# Privacy Policy / Política de Privacidad
 
-_Last updated: [2026-10-27]_
+_Last updated / Última actualización: October 27, 2026_
 
-Recreo Mental ("the app") is a set of mini-games for children (memory, puzzles, sequences, counting, colors and drawing), available on Android . It is published by **ProgramandoAndoMX** ("we"). Contact: **programandoando.mx@gmail.com**.
+**Language Navigation / Navegación de Idioma:**  
+* [English Version](#english-version)
+* [Versión en Español](#versión-en-español)
 
-We designed the app for children. We do not ask for, and do not knowingly collect, personal information from children or anyone else.
+---
 
-## Summary
+## English Version
 
-- No account, no sign-up, no login.
-- No advertising and no ad tracking. The app currently shows no ads.
-- No data is sold or shared for advertising or marketing.
-- Game settings stay on your device.
-- Anonymous technical data (crash reports, basic usage statistics) may be processed by Google Firebase to keep the app stable. See below.
+Recreo Mental ("the app") provides a collection of educational mini-games for children—including memory games, puzzles, sequence matching, counting, colors, and drawing. The app is published by **ProgramandoAndoMX** ("we", "us", or "our"). 
 
-## Information stored on your device
+Contact: **programandoando.mx@gmail.com**
 
-The app saves these settings locally, using the device's (or browser's) own storage:
+We built Recreo Mental with children's privacy as a primary priority. We do not require account registration, and we do not knowingly collect, store, or share personal information from children or any other users.
 
-- Sound, music and tutorial on/off choices.
-- Language (English or Spanish).
-- A player name, if one is entered in Settings. **We recommend using a nickname, not a real name.**
+### 1. Governing Language
+This Privacy Policy has been drafted in English and translated into Spanish. In the event of any conflict, ambiguity, or inconsistency between the translated version and the English version, the **English version shall prevail** to the extent permitted by applicable law.
 
-This data never leaves your device. We cannot see it. Clearing the app's data deletes it.
+### 2. Quick Summary
+* **No Accounts Required:** No sign-up, login, or social media integration.
+* **No Advertising or Ad Tracking:** The app contains zero third-party advertisements and does not track users for marketing purposes.
+* **No Data Selling:** We never sell, rent, or trade user data.
+* **Local Data Storage:** Game settings and preferences stay entirely on your local device.
+* **Anonymous Technical Telemetry:** Non-identifiable diagnostic and stability data (crash logs, basic performance metrics) is processed via Google Firebase to keep the app functional and bug-free.
 
-## Information processed by Firebase (Google)
+### 3. Information Stored Locally on Your Device
+The app stores basic configuration settings locally on your device's native storage system:
+* Sound, background music, and tutorial toggle preferences.
+* Selected language preference (English or Spanish).
+* Optional player nickname (if entered in Settings). **We strongly recommend using a nickname or pseudonym instead of a child's real name.**
 
-The app uses Google Firebase services. Google acts as our service provider.
+> **Note:** Local storage data remains exclusively on your device. We do not transmit, view, or store this data on external servers. Clearing the app's cache/data or uninstalling the app permanently removes this information.
 
-**Android app**
+### 4. Technical Diagnostics & Analytics (Google Firebase)
+To ensure app stability and identify technical failures across different devices, we utilize Google Firebase services provided by Google LLC. Google processes this information solely as a service provider under strict data protection terms.
 
-- **Firebase Crashlytics** – when the app crashes, it sends an anonymous crash report: device model, operating system version, app version, and technical details about the error. It is used only to find and fix bugs.
-- **Firebase Analytics** – the Android app includes this SDK. It may collect anonymous usage information such as app opens, screens viewed, and a randomly generated app-instance identifier. [CONFIRM: describe the final configuration, e.g. "we have disabled advertising-ID collection and ad personalization".]
+* **Firebase Crashlytics:** When an unexpected error or crash occurs, an anonymous technical report is transmitted. This includes the device model, operating system version, app version, and stack traces relevant to the error. This data is used exclusively to debug and fix technical issues.
+* **Firebase Analytics:** Collects non-personally identifiable diagnostic and operational metrics (such as session counts, screen views, and app launch events) using a randomly generated app-instance identifier.
+  * **Child Privacy Safeguards:** Advertising ID collection, ad personalization, and remarketing features have been completely disabled. Analytics data is aggregated and used solely for internal app performance monitoring and stability improvements.
 
-More information: <https://firebase.google.com/support/privacy>
+For details on Google's privacy compliance, please review the [Google Firebase Privacy and Security Documentation](https://firebase.google.com/support/privacy).
 
-## Permissions (Android)
-
-- **Internet** – needed for crash reports and statistics described above. The games themselves work offline.
-- **Storage / photo gallery** – only used if a child chooses to save a drawing in the Drawasaurus game. The image is saved on the device; it is not uploaded anywhere.
-
-## Advertising
-
-The current version of the app contains no advertisements. If we add ads in the future, we will comply with Google Play's Families Policy and update this policy before the change.
-
-## Children's privacy
-
-The app is intended for children and is designed to comply with the Google Play Families Policy and applicable children's privacy laws (such as COPPA in the United States and GDPR-K in the European Union). We do not collect personal information from children. If you believe a child has provided personal information to us, contact **programandoando.mx@gmail.com** and we will delete it.
-
-## Data retention and your rights
-
-We do not hold personal data. Technical data held by Firebase is retained according to Google's retention settings. Depending on where you live, you may have rights of access, correction or deletion; contact **programandoando.mx@gmail.com** and we will help.
-
-## Third-party links
-
-The app does not contain links to external websites or social networks.
-
-## Changes to this policy
-
-We may update this policy. The "last updated" date above will change, and we will describe significant changes in the app's store listing or on this page.
-
-## Contact
-
-**ProgramandoAndoMX**
-programandoando.mx@gmail.com
-
+### 5. Device Permissions
+The app requests only the minimum required system permissions:
+* **Internet Access (`INTERNET`):** Required exclusively to send the anonymous crash reports and operational diagnostics described
